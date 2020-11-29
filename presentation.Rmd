@@ -43,13 +43,24 @@ this text will appear on the slide
 
 ## Next R hurdle to tackle
 
-# Tess "Best hair superlative champion," Sameshima
+# Tess "Best hair, RN, superlative champion," Sameshima
 
 ## Challenges faced along the way
+- Technological issues 
+  - Version control
+  - Multi OS nomenclature
+  - Error bars
+  
+ ![Alt Text](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)
 
 ## Victories and things to celebrate
+- Technological work arounds
+  - More familiar with path settings
+  - General code interpretation and debugging improvements 
 
 ## Challenges you are still facing
+- Fluid coding
+- More error feed back comprehension 
 
 ## Next R hurdle to tackle
 
@@ -153,7 +164,7 @@ Fractals are pervasive in natural processes.
 
 ## 
 <!-- Tess -->
-
+<img src="here::here("presentation images", "ovr_dwell_time2.png") height = "300" width = "400">
 ## 
 <!-- Scott -->
 
